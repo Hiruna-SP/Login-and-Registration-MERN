@@ -1,0 +1,42 @@
+# ==================================
+# Node.js / Backend (server)
+# ==================================
+server/node_modules/
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+server/package-lock.json
+server/.env
+server/.env.local
+server/.env.*.local
+server/dist/
+server/logs
+server/coverage/
+
+# ==================================
+# React / Frontend (client)
+# ==================================
+client/node_modules/
+client/build/
+client/.env
+client/.env.local
+client/.env.*.local
+
+# ==================================
+# General
+# ==================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS
+ehthumbs.db
+Icon?
