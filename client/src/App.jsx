@@ -1,12 +1,12 @@
 //import { useState } from 'react'
+import Signup from "./signup"
 
 
 function App() {
 
   return (
-    <div>
-
-    </div>
+    <Signup/>
+    
   )
 }
 
